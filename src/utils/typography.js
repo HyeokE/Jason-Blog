@@ -19,8 +19,6 @@ GitHubTheme.overrideThemeStyles = () => {
 
     h1: {
       fontWeight: 800,
-      lineHeight: 1.2,
-      letterSpacing: '-0.2px',
     },
 
     h2: {
