@@ -55,9 +55,9 @@ body.dark {
       color: $dark-middle-font-color;
     }
     &:hover{
-      background: $dark-gray;
+      background: $light-category-text-color;
     }
-    box-shadow: 0 0 4px $dark-gray;
+    box-shadow: 0 0 4px $light-category-text-color;
   }
 
   .footer {
