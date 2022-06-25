@@ -52,7 +52,7 @@ function toggleTheme(theme) {
 }
 
 export const ThemeSwitch = () => {
-  const [checked, setChecked] = useState(false)
+  const [checked, setChecked] = useState(true)
 
   const handleChange = checked => {
     const theme = getTheme(checked)
