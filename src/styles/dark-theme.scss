@@ -51,9 +51,10 @@ body.dark {
     p {
       color: $dark-middle-font-color;
     }
-    &:hover {
-      text-shadow: $dark-hover-text-shadow;
+    &:hover{
+      background: $dark-gray;
     }
+    box-shadow: 0 0 4px $dark-gray;
   }
 
   .footer {

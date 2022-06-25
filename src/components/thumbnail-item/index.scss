@@ -3,15 +3,19 @@
 .thumbnail {
   display: block;
   margin-bottom: 12px;
-  padding: 4px;
-  padding-bottom: 12px;
-  box-shadow: none;
-  transition: text-shadow 0.3s, opacity 0.4s;
+  padding: 10px 20px;
+  border-radius: 10px;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+  margin: 0 -1.21875rem;
   opacity: 0;
-
   p {
     font-size: 90%;
     line-height: 1.4;
+  }
+
+  &:first-child{
+    margin-top: 12px;
   }
 }
 

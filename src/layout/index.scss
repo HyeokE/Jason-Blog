@@ -3,7 +3,10 @@
 @import '../styles/dark-theme.scss';
 
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, Bazier Square,
+  Noto Sans KR, Segoe UI, Apple SD Gothic Neo, Roboto, Helvetica Neue, Arial,
+  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
+  Noto Color Emoji;
   background-color: $light-background-color;
   -webkit-text-size-adjust: antialiased;
   -moz-osx-font-smoothing: grayscale;

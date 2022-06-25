@@ -50,9 +50,10 @@ body.light {
     p {
       color: $middle-gray;
     }
-    &:hover {
-      text-shadow: $light-hover-text-shadow;
+    &:hover{
+      background: $light-gray;
     }
+    box-shadow: 0 0 4px $light-gray;
   }
 
   .footer {
