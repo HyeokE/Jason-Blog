@@ -1,11 +1,10 @@
 ---
 title: React v18 주요 변경점
 date: 2022-07-20 00:07:44
-category: Bundler
+category: Frontend
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-# React v18 주요 변경점
 
 ## Automatic Batching
 React v18 부터 상태 업데이트를 하나로 통합해서 배치처리를 한 후 리렌더링을 진행합니다.

@@ -1,7 +1,7 @@
 ---
-title: yarn berry 모노레포 도전기#1
+title: yarn berry 모노레포 도전기 #1
 date: 2022-07-16 00:07:44
-category: Bundler
+category: Frontend
 thumbnail: { thumbnailSrc }
 draft: false
 ---
